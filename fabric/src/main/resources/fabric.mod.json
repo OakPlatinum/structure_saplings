@@ -3,23 +3,23 @@
   "id": "structure_saplings",
   "version": "${version}",
   "name": "Structure Saplings",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "A server-side, vanilla-friendly, multiplatform, lightweight mod which makes saplings grow into a specific structure!",
   "authors": [
-    "Me!"
+    "Oak Platinum"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://mln.hz6826.com.cn/",
+    "sources": "https://github.com/OakPlatinum/structure_saplings"
   },
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/structure_saplings/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.hz6826.fabric.ExampleModFabric"
+      "com.hz6826.structure_saplings.fabric.StructureSaplings"
     ],
     "client": [
-      "com.hz6826.fabric.client.ExampleModFabricClient"
+      "com.hz6826.structure_saplings.fabric.client.ExampleModFabricClient"
     ]
   },
   "mixins": [

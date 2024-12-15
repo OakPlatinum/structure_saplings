@@ -1,4 +1,4 @@
-package com.hz6826.fabric.client;
+package com.hz6826.structure_saplings.fabric.client;
 
 import net.fabricmc.api.ClientModInitializer;
 

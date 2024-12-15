@@ -1,10 +1,10 @@
-package com.hz6826.fabric;
+package com.hz6826.structure_saplings.fabric;
 
 import net.fabricmc.api.ModInitializer;
 
-import com.hz6826.fabriclike.ExampleModFabricLike;
+import com.hz6826.structure_saplings.fabriclike.ExampleModFabricLike;
 
-public final class ExampleModFabric implements ModInitializer {
+public final class StructureSaplings implements ModInitializer {
     @Override
     public void onInitialize() {
         // This code runs as soon as Minecraft is in a mod-load-ready state.

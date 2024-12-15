@@ -1,15 +1,15 @@
 modLoader = "javafml"
 loaderVersion = "[4,)"
-#issueTrackerURL = ""
-license = "Insert License Here"
+issueTrackerURL = "https://github.com/OakPlatinum/structure_saplings/issues"
+license = "MIT"
 
 [[mods]]
 modId = "structure_saplings"
 version = "${version}"
 displayName = "Structure Saplings"
-authors = "Me!"
+authors = "Oak Platinum"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+A server-side, vanilla-friendly, multiplatform, lightweight mod which makes saplings grow into a specific structure!
 '''
 #logoFile = ""
 

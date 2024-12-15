@@ -1,6 +1,6 @@
-package com.hz6826.fabriclike;
+package com.hz6826.structure_saplings.fabriclike;
 
-import com.hz6826.ExampleMod;
+import com.hz6826.structure_saplings.ExampleMod;
 
 public final class ExampleModFabricLike {
     public static void init() {
